@@ -23,6 +23,6 @@ git clone https://github.com/JastinXyz/pc-terbilang
 
   ![default](https://fs-01.cyberdrop.to/terbilang-default-AtmyPrn4.png)
 
-  - Jika Diaktifkan:
+  - Jika Diaktifkan (mff nama channel nya kasar akwoalowak 😅☝️):
 
   ![aktif](https://media.giphy.com/media/YHiUmhqCIkQlSP05sq/giphy.gif)
